@@ -1,0 +1,22 @@
+{
+  "name": "seo_link_analyzer",
+  "version": "1.0.0",
+  "description": "seo link analyzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effieguenther/SEO_Link_Analyzer.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "effie guenther",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/effieguenther/SEO_Link_Analyzer/issues"
+  },
+  "homepage": "https://github.com/effieguenther/SEO_Link_Analyzer#readme"
+}
